@@ -1,4 +1,4 @@
-package com.example.mycalculator;
+package com.example.mycalculator.controler.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.mycalculator.R;
+
+public class test2 extends AppCompatActivity {
     private Button mButton0;
     private Button mButton1;
     private Button mButton2;
